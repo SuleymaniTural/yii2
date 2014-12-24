@@ -1,10 +1,7 @@
 <?php
 /**
  * @link http://www.yiiframework.com/
- * @copyright Copyright (c) 2008 Yii Software LLC
- * @license http://www.yiiframework.com/license/
- */
-
+ * @copyright Copyright (c) 2008 Yii Software L
 namespace yii\helpers;
 
 use Yii;
